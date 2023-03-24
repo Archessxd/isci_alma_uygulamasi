@@ -1,0 +1,12 @@
+D:\Dev\c#\mulakat_programi\mulakat_programi\bin\Debug\mulakat_programi.exe.config
+D:\Dev\c#\mulakat_programi\mulakat_programi\bin\Debug\mulakat_programi.exe
+D:\Dev\c#\mulakat_programi\mulakat_programi\bin\Debug\mulakat_programi.pdb
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.csproj.AssemblyReference.cache
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.Form1.resources
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.Properties.Resources.resources
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.csproj.GenerateResource.cache
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.csproj.CoreCompileInputs.cache
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.exe
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.pdb
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.Form2.resources
+D:\Dev\c#\mulakat_programi\mulakat_programi\obj\Debug\mulakat_programi.Form3.resources
